@@ -7,9 +7,11 @@
 
 <!-- - 🔭 I’m currently working on [Elzian Agro website](https://agro.elzian.com/) -->
 
-- 🌱 I’m currently learning **at SLIIT.**
+- 🌱 I’m a graduate **at SLIIT.**
 
 - 📫 How to reach me **vithanagemonadi12@gmail.com**
+
+- <a href="https://monadi-rividula.github.io/" target="blank">Portfolio Website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
