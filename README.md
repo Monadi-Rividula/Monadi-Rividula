@@ -4,8 +4,10 @@
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monadi-rividula&label=Profile%20views&color=0e75b6&style=flat" alt="monadi-rividula" /> </p>
-- I was an Intern Web Designer at SLIIT, Malabe - Sri Lanka
+
 <!-- - 🔭 I’m currently working on [Elzian Agro website](https://agro.elzian.com/) -->
+- I was an Intern Web Designer at SLIIT, Malabe - Sri Lanka
+
 - I was an Intern Web Developer at **Elzian Agro**, Sri Lanka
   
 - 🌱 I’m a graduate **at SLIIT.**
